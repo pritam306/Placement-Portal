@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wb-placement.netlify.app/sitemap.xml
