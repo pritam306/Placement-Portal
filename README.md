@@ -13,13 +13,13 @@ A **data-driven web application** that analyzes student placement trends across 
 
 ---
 
-## 👀 Visitor Count
+## Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=pritam306\&repo=Placement-Portal\&color=00ffff\&style=flat)
 
 ---
 
-## ✨ Features
+## Main Features
 
 * Interactive dashboards (charts & graphs)
 * Year-wise placement trend analysis
@@ -49,7 +49,7 @@ Placement-Portal/
 ```
 
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 ```bash
 git clone https://github.com/pritam306/Placement-Portal.git
@@ -66,7 +66,8 @@ index.html
 
 ## Preview
 
-(Add screenshots here for better impact 🚀)
+<img width="1912" height="892" alt="image" src="https://github.com/user-attachments/assets/349d5ae5-b273-46a0-9043-ce4d8154990a" />
+
 
 ---
 
@@ -79,7 +80,7 @@ index.html
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Pritam Builds (pritam306)**
 Frontend Developer | UI/UX Designer |
