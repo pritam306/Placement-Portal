@@ -1,4 +1,4 @@
-# 🚀 WB Placements Analysis Portal
+# WB Placements Analysis WEB
 
 A **data-driven web application** that analyzes student placement trends across **West Bengal institutions**. This platform provides interactive dashboards and insights to help students understand placement patterns and make better career decisions.
 
