@@ -68,11 +68,6 @@ index.html
 
 <img width="1912" height="892" alt="image" src="https://github.com/user-attachments/assets/349d5ae5-b273-46a0-9043-ce4d8154990a" />
 
-## V-Preview
-
-![Project Demo](assets/demo.gif)
-
----
 
 ## Future Thought
 
